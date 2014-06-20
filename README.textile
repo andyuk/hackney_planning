@@ -1,0 +1,3 @@
+Scrapes Hackney Council's Planning Application Explorer (London, UK) twice a day. Part of a project for the "Hackney Citizen":http://www.hackneycitizen.co.uk.
+
+"More information...":http://aendrew.com/content/rss-feed-planning-applications-and-appeals-hackney
