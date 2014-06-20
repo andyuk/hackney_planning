@@ -1,4 +1,5 @@
 <?php
+require 'scraperwiki.php';
 //credit goes to my awesome girlfriend for being awesome.
 
 if (!file_exists('simpletest/browser.php')){ //first need to download SimpleTest
